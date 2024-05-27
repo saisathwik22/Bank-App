@@ -5,3 +5,6 @@ consists of dynamically changing content like current balance, log-out timer, tr
 build using html css and javascript.
 
 covers usage of various DOM events and in-built commands of javascript.
+
+for user 1 ==> user = ss , pin = 1111
+for user 2 ==> user = hj , pin = 2222
