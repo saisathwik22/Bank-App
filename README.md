@@ -1,10 +1,23 @@
+# Bankist Application
+
 A bankist app which features log-in template, transaction template, and display transaction history with date.
 Also displays interest, total income and total outgoing value.
 handles mutliple accounts and facilitates cross-account money transfers.
 consists of dynamically changing content like current balance, log-out timer, transaction history, withdrawl history.
 build using html css and javascript.
 
-covers usage of various DOM events and in-built commands of javascript.
+## Technologies used
+- HTML
+- CSS
+- JavaScript
+- Visual Studio Code
 
-for user 1 ==> user = ss , pin = 1111
-for user 2 ==> user = hj , pin = 2222
+### User guide
+User 1 credentials
+- user : ss
+- pin : 1111
+User 2 credentials
+- user : hj
+- pin : 2222
+
+Log in to the user to experience seamless UI experience of transactions and withdrawls accross both the accounts.
