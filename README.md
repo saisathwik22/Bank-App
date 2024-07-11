@@ -13,10 +13,11 @@ build using html css and javascript.
 - Visual Studio Code
 
 ### User guide
-User 1 credentials
+1. User 1 credentials
 - user : ss
 - pin : 1111
-User 2 credentials
+
+2. User 2 credentials
 - user : hj
 - pin : 2222
 
